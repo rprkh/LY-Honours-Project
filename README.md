@@ -1,5 +1,5 @@
-# LY-Honours-Project
-LY Honours Project: Bird Species Classification Using Vision Transformers
+# LY Honours Project
+Project Description: Bird Species Classification Using Vision Transformers
 
 # Contributors
 - Anay Nayak: 16010120033
